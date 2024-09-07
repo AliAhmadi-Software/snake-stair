@@ -1,0 +1,16 @@
+E:\snake_stair\snake_stair\bin\Debug\snake_stair.exe.config
+E:\snake_stair\snake_stair\obj\Debug\snake_stair.csprojResolveAssemblyReference.cache
+E:\snake_stair\snake_stair\obj\Debug\snake_stair.FrmStrat.resources
+E:\snake_stair\snake_stair\obj\Debug\snake_stair.Properties.Resources.resources
+E:\snake_stair\snake_stair\obj\Debug\snake_stair.csproj.GenerateResource.Cache
+E:\snake_stair\snake_stair\bin\Debug\snake_stair.exe
+E:\snake_stair\snake_stair\bin\Debug\snake_stair.pdb
+E:\snake_stair\snake_stair\obj\Debug\snake_stair.exe
+E:\snake_stair\snake_stair\obj\Debug\snake_stair.pdb
+E:\snake_stair\snake_stair\obj\Debug\snake_stair.FrmGame.resources
+E:\snake_stair\snake_stair\obj\Debug\snake_stair.FrmWinner.resources
+E:\snake_stair\snake_stair\bin\Debug\Interop.WMPLib.dll
+E:\snake_stair\snake_stair\bin\Debug\AxInterop.WMPLib.dll
+E:\snake_stair\snake_stair\obj\Debug\Interop.WMPLib.dll
+E:\snake_stair\snake_stair\obj\Debug\AxInterop.WMPLib.dll
+E:\snake_stair\snake_stair\obj\Debug\snake_stair.csproj.ResolveComReference.cache
